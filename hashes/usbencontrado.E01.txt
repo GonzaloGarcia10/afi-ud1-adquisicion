@@ -1,0 +1,65 @@
+﻿Created By Exterro® FTK® Imager 8.3.0.27 
+
+Case Information: 
+Case Number: 01
+Evidence Number: E01
+Unique description: usbencontrado
+Examiner: gonzalo
+Notes:  
+Encrypted Password : N/A
+
+Computer Name: WIN-2PD41MP0EAL
+Windows Edition: Windows 11 Pro
+Windows Version: Microsoft Windows 6.3.26300.9711
+OS build: 6.3.26300
+Processor: virt-10.0
+Installed RAM: 4 GB
+
+--------------------------------------------------------------
+
+Information for C:\Users\Gonzalo\Desktop\Evidencias\usbencontrado:
+
+Physical Evidentiary Item (Source) Information:
+  [Device Info]
+    Source Type: Physical
+  [Drive Geometry]
+    Cylinders: 943
+    Tracks per Cylinder: 255
+    Sectors per Track: 63
+    Bytes per Sector: 512
+    Sector Count: 15.155.200
+  [Physical Drive Information]
+    Drive Model: TOSHIBA TransMemory USB Device
+    Drive Serial Number: C
+    Drive Interface Type: USB
+    Removable drive: True
+    Source data size: 7400 MB
+    Sector count:    15155200
+  [Computed Hashes]
+    MD5 Hash:    43ea345fb5bcea69d2cb64cfa7332b84
+    SHA1 Hash:   05e50e9321617372957f408b9f31531f5c473c40
+
+Verification Definitions:
+  Computed hash: The hash calculated of the source media during the creation or verify process
+  Stored verification hash: The hash calculated during image acquisition and stored inside the image
+  Report hash: The hash calculated during image acquisition and stored in the image summary report
+
+Image Information:
+  Acquisition started:   Thu Nov  5 17:53:49 2026 (2026-11-05T16:53:49Z)
+  Acquisition finished:  Thu Nov  5 17:58:42 2026 (2026-11-05T16:58:42Z)
+  Segment list:
+    C:\Users\Gonzalo\Desktop\Evidencias\usbencontrado.E01
+    C:\Users\Gonzalo\Desktop\Evidencias\usbencontrado.E02
+    C:\Users\Gonzalo\Desktop\Evidencias\usbencontrado.E03
+    C:\Users\Gonzalo\Desktop\Evidencias\usbencontrado.E04
+    C:\Users\Gonzalo\Desktop\Evidencias\usbencontrado.E05
+
+Image Verification Results:
+  Verification started:  Thu Nov  5 17:58:42 2026 (2026-11-05T16:58:42Z)
+  Verification finished: Thu Nov  5 18:00:01 2026 (2026-11-05T17:00:01Z)
+  MD5 - Computed hash:             43ea345fb5bcea69d2cb64cfa7332b84 : verified
+  MD5 - Stored verification hash:  43ea345fb5bcea69d2cb64cfa7332b84 : verified
+  MD5 - Report hash:               43ea345fb5bcea69d2cb64cfa7332b84 : verified
+  SHA1 - Computed hash:            05e50e9321617372957f408b9f31531f5c473c40 : verified
+  SHA1 - Stored verification hash: 05e50e9321617372957f408b9f31531f5c473c40 : verified
+  SHA1 - Report hash:              05e50e9321617372957f408b9f31531f5c473c40 : verified

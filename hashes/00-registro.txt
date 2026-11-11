@@ -1,0 +1,46 @@
+﻿2026-10-31 18:30:33Z  Caso 01 Â· evidencia E01 Â· equipo FORENSE-06 Â· usuario FORENSE-06\Administrador
+2026-10-31 18:30:33Z  Hora local 2026-10-31 19:30:32 Â· zona Romance Standard Time Â· desfase UTC 01:00:00
+2026-10-31 18:30:34Z  Anota en el acta la diferencia entre este reloj y la hora real.
+2026-10-31 18:30:34Z  INICIO 01-fecha-hora
+2026-10-31 18:30:34Z  ERROR  01-fecha-hora : The term 'Get-TimeZone' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:34Z  INICIO 01b-sincronizacion
+2026-10-31 18:30:35Z  FIN    01b-sincronizacion
+2026-10-31 18:30:36Z  INICIO 02-arranque
+2026-10-31 18:30:36Z  ERROR  02-arranque : The term 'Get-CimInstance' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:36Z  INICIO 03-sesiones
+2026-10-31 18:30:37Z  ERROR  03-sesiones : The term 'Get-CimInstance' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:37Z  INICIO 04-conexiones-tcp
+2026-10-31 18:30:37Z  ERROR  04-conexiones-tcp : The term 'Get-NetTCPConnection' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:37Z  INICIO 05-puertos-udp
+2026-10-31 18:30:37Z  ERROR  05-puertos-udp : The term 'Get-NetUDPEndpoint' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:38Z  INICIO 06-netstat
+2026-10-31 18:30:38Z  FIN    06-netstat
+2026-10-31 18:30:38Z  INICIO 07-cache-arp
+2026-10-31 18:30:39Z  FIN    07-cache-arp
+2026-10-31 18:30:39Z  INICIO 08-cache-dns
+2026-10-31 18:30:39Z  FIN    08-cache-dns
+2026-10-31 18:30:39Z  INICIO 09-rutas
+2026-10-31 18:30:40Z  FIN    09-rutas
+2026-10-31 18:30:40Z  INICIO 10-configuracion-red
+2026-10-31 18:30:40Z  FIN    10-configuracion-red
+2026-10-31 18:30:41Z  INICIO 11-recursos-compartidos
+2026-10-31 18:30:41Z  ERROR  11-recursos-compartidos : The term 'Get-SmbShare' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:41Z  INICIO 12-procesos
+2026-10-31 18:30:41Z  ERROR  12-procesos : The term 'Get-CimInstance' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:41Z  INICIO 13-servicios
+2026-10-31 18:30:41Z  ERROR  13-servicios : The term 'Get-CimInstance' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:41Z  INICIO 14-tareas-programadas
+2026-10-31 18:30:50Z  FIN    14-tareas-programadas
+2026-10-31 18:30:51Z  INICIO 15-inicio-automatico
+2026-10-31 18:30:51Z  ERROR  15-inicio-automatico : The term 'Get-CimInstance' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:51Z  INICIO 16-usuarios-locales
+2026-10-31 18:30:51Z  ERROR  16-usuarios-locales : The term 'Get-LocalUser' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:52Z  INICIO 16b-administradores
+2026-10-31 18:30:52Z  ERROR  16b-administradores : The term 'Get-LocalGroup' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:52Z  INICIO 17-discos-volumenes
+2026-10-31 18:30:52Z  ERROR  17-discos-volumenes : The term 'Get-Disk' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:53Z  INICIO 18-usb-conectados
+2026-10-31 18:30:53Z  ERROR  18-usb-conectados : The term 'Get-PnpDevice' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:53Z  INICIO 19-portapapeles
+2026-10-31 18:30:53Z  ERROR  19-portapapeles : The term 'Get-Clipboard' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2026-10-31 18:30:53Z  Terminado en 22 s. Salida: D:\windows\salida\01_E01_20261031-183032
